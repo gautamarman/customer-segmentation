@@ -1,7 +1,5 @@
 # Customer Segmentation Analysis
 
-An end-to-end Customer Segmentation project using Python and Power BI to analyze customer purchasing behavior and identify high-value customer groups using RFM (Recency, Frequency, Monetary) analysis.
-
 ---
 
 ## Project Overview
