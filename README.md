@@ -64,7 +64,7 @@ Built an interactive Power BI dashboard to visualize:
 
 ## Dashboard Preview
 
-![Dashboard Preview]()
+![Dashboard Preview]("data/dashboard-preview.png")
 
 ---
 
